@@ -32,7 +32,7 @@ Pygments==2.17.2
 python-dotenv==1.0.1
 python-multipart==0.0.9
 PyYAML==6.0.1
-requests==2.31.0
+requests==2.32.0
 rich==13.7.1
 shellingham==1.5.4
 six==1.16.0
